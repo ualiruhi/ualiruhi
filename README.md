@@ -20,6 +20,5 @@
 </p>
 <p align="center">
  
-  <a href="[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=xsrv52s4becivrg6m0jn2pj2u&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)" left="150px">
- 
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=xsrv52s4becivrg6m0jn2pj2u&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 </p>
