@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm <a href="https://peterhan.dev">Ali</a> 👋</h1>
-<img alt="Title" title="GitMainText" src="Welcome-to-my-GitHub.png"
+<img alt="Title" title="GitMainText" left="20px "src="Welcome-to-my-GitHub.png"
 <p align="center">
   <a href="https://github.com/ualiruhi">
     <picture>
