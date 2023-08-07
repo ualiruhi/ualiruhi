@@ -14,11 +14,12 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/threads/white">
       <img alt="Threads" title="Threads" height="48" width="48" src="https://cdn.simpleicons.org/threads"></picture></a>
-  <a href="https://youtube.com/@peterthehan">
-    <img alt="YouTube" title="YouTube" height="48" width="48" src="https://cdn.simpleicons.org/youtube"></a>
+ <a href="https://instagram.com/aliruhiunl" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+            alt="aliruhiunl" height="30" width="40" /></a>
 </p>
 <p align="center">
  
- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=xsrv52s4becivrg6m0jn2pj2u&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=xsrv52s4becivrg6m0jn2pj2u&redirect=true)
+ <a href="https://spotify-github-profile.vercel.app/api/view?uid=xsrv52s4becivrg6m0jn2pj2u&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)((https://spotify-github-profile.vercel.app/api/view?uid=xsrv52s4becivrg6m0jn2pj2u&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=xsrv52s4becivrg6m0jn2pj2u&redirect=true)
  
 </p>
