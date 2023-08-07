@@ -16,7 +16,7 @@
       <img alt="Threads" title="Threads" height="48" width="48" src="https://cdn.simpleicons.org/threads"></picture></a>
  <a href="https://instagram.com/aliruhiunl" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="aliruhiunl" height="30" width="40" /></a>
+            alt="aliruhiunl" height="48" width="48" /></a>
 </p>
 <p align="center">
  
