@@ -2,7 +2,7 @@
  <a href="https://github.com/ualiruhi">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
-      <img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github"></picture></a>
+      <img alt="GitHub" title="GitHub" height="48" width="4448" src="https://cdn.simpleicons.org/github"></picture></a>
 </p>
 
 <p align="center">
@@ -14,7 +14,6 @@
       <img alt="Threads" title="Threads" height="48" width="48" src="https://cdn.simpleicons.org/threads"></picture></a>
   <a href="https://instagram.com/aliruhiunl">
     <img alt="Instagram" title="Instagram" height="48" width="48" src="https://cdn.simpleicons.org/instagram"></a>
-</p>
- 
- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=xsrv52s4becivrg6m0jn2pj2u&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
-</p>
+
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=xsrv52s4becivrg6m0jn2pj2u&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile) 
