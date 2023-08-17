@@ -1,6 +1,4 @@
 <h1 align="center">Hi, I'm <a href="https://peterhan.dev">Ali</a> 👋</h1>
-<img alt="Title" title="GitMainText" align="center" src="Welcome-to-my-GitHub.png"
-<p align="center">
  <a href="https://github.com/ualiruhi">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
