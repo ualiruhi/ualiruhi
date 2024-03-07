@@ -16,4 +16,7 @@
     <img alt="Instagram" title="Instagram" height="48" width="48" left="48" src="https://cdn.simpleicons.org/instagram"></a>
 
 
-<h1> [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=xsrv52s4becivrg6m0jn2pj2u&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile) </h1>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=xsrv52s4becivrg6m0jn2pj2u&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile) 
+<p align="center">
+  ![spotify-github-profile](https://github.com/kittinan/spotify-github-profile)
+</p>
