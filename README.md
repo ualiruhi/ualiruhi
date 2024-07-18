@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.gg/WjEFnzC">
+  <a href="https://discordapp.com/users/491264898655846422">
     <img alt="Discord" title="Discord" height="48" width="48" src="https://cdn.simpleicons.org/discord"></a>
   <a href="https://www.threads.net/@aliruhiunl">
     <picture>
