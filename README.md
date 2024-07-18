@@ -11,7 +11,7 @@
   <a href="https://www.threads.net/@aliruhiunl">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/threads/white">
-      <img alt="Threads" title="Threads" height="48" width="48" src="https://cdn.simpleicons.org/threads"></picture></a>
+      <img alt="X" title="X" height="48" width="48" src="https://cdn.simpleicons.org/x/"></picture></a>
   <a href="https://instagram.com/aliruhiunl">
     <img alt="Instagram" title="Instagram" height="48" width="48" left="48" src="https://cdn.simpleicons.org/instagram"></a>
  
